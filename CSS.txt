@@ -1,0 +1,128 @@
+.nav lh {color:black;
+          font-size: 15px;
+          font-weight: bold;
+          padding: 4px 10px;
+          text-transform: uppercase;
+          font-family:cursive;
+          position:relative;
+          left:580px;
+          border:solid;
+          padding-top:40px;
+          border-color:blue;
+}
+.nav li a {
+          color:black;
+          font-size: 11px;
+          font-weight: bold;
+          padding: 20px 10px;
+          text-transform: uppercase;
+          font-family:cursive;
+          text-decoration:underline;
+          border:solid;
+          background-color:rgb(250,200,200);
+}
+.nav li {
+           display: inline;
+           font-family:cursive;
+}
+.jumbotron {
+          background-image:url('http://www.fastweb.com/uploads/article_photo/photo/2161/crop380w_istock_000002193842xsmall-books.jpg');
+          height: 500px;
+          background-repeat: no-repeat;
+          background-size: cover;
+          font-family:cursive;
+}
+.jumbotron .container {
+          position: relative;
+          top:100px;
+          font-family:cursive;
+}
+.jumbotron h1 {
+          color: #0DF033;
+          font-size: 30px;  
+          font-family: 'Shift', sans-serif;
+          font-weight: bold;
+         font-family:cursive;
+}
+.jumbotron p {
+          font-size: 20px;
+          color: #0DCAF0;
+          font-family:cursive;
+}
+.learn-more {
+          background-color: #f7f7f7;
+          font-family:cursive;
+}
+.nav2 a {
+          color: #5a5a5a;
+          font-size: 11px;
+          font-weight: bold;
+          padding: 14px 10px;
+          text-transform: uppercase;
+          font-family:cursive;
+          text-decoration:underline;
+          border:solid;
+}
+.nav2 li {
+           display: inline;
+          font-family:cursive;
+}
+.learn-more h3 {
+          font-family: 'Shift', sans-serif;
+          font-size: 18px;
+          font-weight: bold;
+          font-family:cursive;
+}
+
+.learn-more a {
+          color: #00b0ff;
+          font-family:cursive;
+}
+.learn{
+           background-color:#F3EF73;
+           border-bottom:1px solid                 #dbdbdb;
+           font-family:cursive;
+}
+.learn h2{
+           color:#F0BB0D;
+           font-size:24px;
+           font-family:cursive;
+}
+.learn p {
+            font-size:15px;
+            margin-bottom:13px;
+            font-family:cursive;
+            border:dotted;
+}    
+.col-md-4{
+            background-color:orange;
+            font-family:cursive;
+}
+.logo{  
+            padding-top:30px;
+            padding-left:50px;
+}
+.logo-2{
+            font-weight:bold;
+            font-family:cursive;
+            font-size:50px;
+}
+.logo-2 img{
+            border:dotted;
+            border-width:10px;
+}
+.name{
+            color:green;
+}
+.up img { 
+            position:relative;
+            left:900px;
+            border:solid;
+}
+.pub {      font-family:cursive;
+            border:solid;
+            background-color:red;
+            font-size:50px;
+}
+.es  {      background-color:gold;
+}

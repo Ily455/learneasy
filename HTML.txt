@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Learn_Easy</title>
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body bgcolor="">
+    <NOBR><font color="deepskyblue"><div class="logo-2"><img src="https://lh3.googleusercontent.com/-2SRh1z6E-OA/Vj5DsI3fNEI/AAAAAAAAAPg/6o4yiE-Tnuk/w140-h139-p/capture-20151107-180531.png">&nbsp &nbsp &nbsp &nbsp &nbsp Learn_Easy </div></font></NOBR>
+<div class="nav">
+          <li><a href="#">Home</a></li> 
+          <li><a href="https://www.google.com/">Browse</a></li>
+      <lh>follow Us On :
+    <a href="https://www.facebook.com/SergioIlyass4"><img src="https://www.facebook.com/images/fb_icon_325x325.png"width=50></a>
+<a href="https://plus.google.com/105728910695803451232"><img src="https://lh3.googleusercontent.com/N-AY2XwXafWq4TQWfua6VyjPVQvTGRdz9CKOHaBl2nu2GVg7zxS886X5giZ9yY2qIjPh=w300"width=50></a></lh>
+    </div>
+  
+    <div class="jumbotron">
+      <div class="container">
+        <h1>Learn Lesson That You Want.</h1>
+        <p>In Different Subjects(Math,Science,Physique...)</p>
+        <a href="https://www.coursera.org/learn/learning-how-to-learn">Learn More</a>
+      </div>
+    </div> 
+<div class="learn">
+  <div class="container">
+    <h2>Science Subjects:</h2>
+    <p>Want To Learn??Using This WEBSITE You Can .</p>
+  </div>
+    <div class="row">
+      <div class="col-md-4">
+      <div class="thumbnail">
+      <img src="http://etab.ac-poitiers.fr/coll-montmoreau/IMG/jpg/logo_2008.jpg" width=300 height=300>
+      <img src="http://coaching.exellesuccess.com/images/physique%20chimie.jpg" width=300 height=300>
+      <img src="https://pbs.twimg.com/profile_images/510984202343297024/5zFWeSu7_400x400.png" width=300 height=300>
+
+      </div>
+    </div>
+  </div>
+ <div class="learn-more">
+	  <div class="container">
+	  <div class="row">
+	  <div class="col-md-4">
+	  <div class="nav2">
+        <center><li><a href="http://www.cmath.fr/">Maths</a></li>
+        &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<li><a href="http://physiquecollege.free.fr/">Physique</a></li>
+	 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <li><a href="http://remediation.cours-svt.fr/">SVT</a></li></center></div>
+	  <div>
+		<div>
+	      <div>
+			<center><h3>Maths</h3></center>
+			<p>Mathematics is a set of abstract knowledge resulting from logical reasoning applied to various objects such as numbers , figures, structures and transformations. Mathematics is also developing area of research knowledge and the discipline that teaches ..</p>
+			<p><a href="http://www.mathematiquesfaciles.com/">Want To Do Some Maths Exercices?Click Here!.</a></p>
+	      </div>
+		  <div>
+			<center><h3>Physique</h3></center>
+			<p>Physics is the science that tries to understand, model or explain physical phenomena in the world. It corresponds to the study of the outer world , the laws of its variation and evolution . System modeling leaves out chemical and biological processes.</p>
+			<p><a href="https://fr.wikipedia.org/wiki/Physique">Read more about Physique.</a>
+			<a href="http://physiquecollege.free.fr/">Or Do Some Exercices.</a></p>
+		  </div>
+		  <div>
+			<center><h3>SVT</h3></center>
+			<p>In the primary and secondary French education, life sciences and earth form a part of science education.
+.</p>
+			<p><a href="http://www.vivelessvt.com/">Study More about SVT.</a></p>
+            </div>
+	    </div>
+	  </div>
+	</div>
+            <div class="pub"><font color=blue>"Your PUB Here !!"</font><br>
+      For More Informations Contact Me On<NOBR><a href="https://www.facebook.com/SergioIlyass4">Facebook</a>,Or On<a href="https://plus.google.com/105728910695803451232">Google +</a>.</NOBR>
+            </div>
+<div class="es">
+			<div class="name">
+              <marquee><h5>This Web Page is Made By  :  Ilyass#4.</h5></marquee></div>
+            <div class="up">
+              <a href="#"><img src="http://cdn-6.freeclipartnow.com/d/40231-6/arrow-blue-rounded-up.jpg" width=50></a>
+              <iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2FSergioIlyass4&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe> </div>
+</div>
+  </body>
+</html>
